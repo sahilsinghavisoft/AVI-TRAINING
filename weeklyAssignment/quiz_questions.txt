@@ -1,0 +1,70 @@
+What are two things you can never eat for breakfast?|Lunch and Dinner
+What is always coming but never arrives? |Tomorrow
+What gets wetter the more it dries?|towel
+What can be broken but never held? |promise
+What word is spelled incorrectly in every single dictionary?|Incorrectly
+What is it that lives if it is fed, and dies if you give it a drink?|Fire
+What never asks a question but gets answered all the time?|cellphone
+What word would you use to describe a man who does not have all his fingers on one hand?|Normal
+What goes up but never ever comes down?|age
+What can one catch that is not thrown?|cold
+If you have one, you want to share it. But once you share it, you do not have it. What is it?|secret
+What starts with "e" and ends with "e" but only has one letter in it?|envelope
+If a plane crashes on the border between the United States and Canada, where do they bury the survivors?|Survivors aren’t buried!
+How can a girl go 25 days without sleep?|She sleeps at night
+Which word becomes shorter when you add 2 letters to it?|short
+_________are words that a programming language has set aside for its own use ?|a. Control words|b. Control structures|c. Reserved words|d. Reserved keys|c
+Which of the following software could assist someone who cannot use their hands for computer input ?|a. Video conferencing|b. Speech recognition|c. Audio digitizer|d. Synthesizer|b
+__________ is the process of finding errors in software code ?|a. Hacking|b. Compiling|c. Testing|d. Debugging|d
+A series of instructions that tells a computer what to do and how to do it is called a ________ ?|a. program|b. command|c. user response|d. processor|a
+A __________ shares hardware, software, and data among authorized users ?|a. network|b. protocol|c. hyperlink|d. transmitter|a
+The basic computer processing cycle consists of _______ ?|a. input, processing and output|b. systems and application|c. data, information and applications|d. hardware, software and storage|a
+System software ?|a. allows the user to diagnose and troubleshoot the device|b. is a programming language|c. is part of a productivity suite|d. helps the computer manage internal resources|d
+_____ is the process of carrying out commands ?|a. Fetching|b. Storing|c. Executing|d. Decoding|c
+This can be another word for program ?|a. software|b. disk|c. floppy|d. hardware|a
+Information that comes from an external source and fed into computer software is called ?|a. Output|b. Input|c. Throughput|d. Reports|b
+Which of the following information systems focuses on making manufacturing processes more efficient and of higher quality ?|a. Computer-aided manufacturing|b. Computer-integrated manufacturing|c. Computer-aided software engineering|d. Computer-aided system engineering|a
+For seeing the output, you use ?|a. Monitor|b. Keyboard|c. Mouse|d. Scanner|a
+Computer programs are also known as __________ ?|a. operating systems|b. documents|c. peripherals|d. applications|d
+A (n) –– is a program that makes the computer easier to use ?|a. utility|b. application|c. operating system|d. network|c
+The person who writes and tests computer programs is called a ?|a. programmer|b. computer scientist|c. software engineer|d. project developer|a
+What is the capital of France?|a. London|b. Paris|c. Rome|d. Berlin|b
+Which planet is known as the Red Planet?|a. Jupiter|b. Mars|c. Venus|d. Mercury|b
+What is the powerhouse of the cell?|a. Nucleus|b. Mitochondria|c. Chloroplast|d. Ribosome|b
+Who is the author of 'To Kill a Mockingbird'?|a. Harper Lee|b. J.K. Rowling|c. George Orwell|d. Ernest Hemingway|a
+What is the chemical symbol for water?|a. Wo|b. H2O|c. H2O2|d. Wa|b
+What is the capital of the United States?|a. New York City|b. Washington, D.C.|c. Los Angeles|d. Chicago|b
+Who is the first President of the United States?|a. Thomas Jefferson|b. George Washington|c. Abraham Lincoln|d. John Adams|b
+Which country is known as the Land of the Rising Sun?|a. China|b. India|c. Japan|d. South Korea|c
+What is the tallest mountain in the world?|a. Mount Kilimanjaro|b. Mount Everest|c. Mount Fuji|d. Mount McKinley|b
+Who painted the Mona Lisa?|a. Leonardo da Vinci|b. Michelangelo|c. Pablo Picasso|d. Vincent van Gogh|a
+What is the chemical symbol for gold?|a. Au|b. Ag|c. Fe|d. Cu|a
+How many continents are there in the world?|a. 5|b. 6|c. 7|d. 8|c
+What is the largest mammal in the world?|a. Elephant|b. Blue whale|c. Giraffe|d. Hippopotamus|b
+Who wrote the play "Romeo and Juliet"?|a. William Shakespeare|b. Charles Dickens|c. Jane Austen|d. Mark Twain|a
+What is the chemical symbol for oxygen?|a. O2|b. H2O|c. C|d. O|d
+What is the capital of Australia?|a. Sydney|b. Melbourne|c. Canberra|d. Perth|c
+Who invented the telephone?|a. Thomas Edison|b. Alexander Graham Bell|c. Nikola Tesla|d. Benjamin Franklin|b
+What is the main ingredient in guacamole?|a. Tomatoes|b. Avocado|c. Onion|d. Cilantro|b
+Which ocean is the largest in the world?|a. Atlantic Ocean|b. Indian Ocean|c. Pacific Ocean|d. Arctic Ocean|c
+Who discovered penicillin?|a. Alexander Fleming|b. Marie Curie|c. Louis Pasteur|d. Jonas Salk|a
+What is the largest organ in the human body?|a. Liver|b. Brain|c. Skin|d. Heart|c
+What is the chemical symbol for carbon?|a. Ca|b. C|c. Co|d. Cu|b
+Who wrote "The Great Gatsby"?|a. F. Scott Fitzgerald|b. Ernest Hemingway|c. John Steinbeck|d. Mark Twain|a
+Which animal is known as the "King of the Jungle"?|a. Lion|b. Tiger|c. Elephant|d. Gorilla|a
+Who discovered gravity when an apple fell on his head?|a. Isaac Newton|b. Albert Einstein|c. Galileo Galilei|d. Johannes Kepler|a
+What is the chemical symbol for silver?|a. Ag|b. Au|c. Pt|d. Sn|a
+What is the largest planet in our solar system?|a. Mars|b. Jupiter|c. Saturn|d. Earth|b
+Who is known as the father of modern physics?|a. Isaac Newton|b. Albert Einstein|c. Galileo Galilei|d. Nikola Tesla|b
+What is the chemical symbol for sodium?|a. So|b. S|c. Na|d. Sn|c
+Which country is famous for the tulip festival?|a. Netherlands|b. Italy|c. France|d. Japan|a
+Who painted the famous artwork "Starry Night"?|a. Vincent van Gogh|b. Pablo Picasso|c. Leonardo da Vinci|d. Michelangelo|a
+What is the chemical symbol for helium?|a. He|b. H|c. Li|d. Ne|a
+What is the smallest country in the world?|a. Vatican City|b. Monaco|c. Nauru|d. San Marino|a
+Who wrote "The Catcher in the Rye"?|a. J.D. Salinger|b. F. Scott Fitzgerald|c. Ernest Hemingway|d. Harper Lee|a
+Which planet is known as the "Morning Star" or "Evening Star"?|a. Mars|b. Venus|c. Mercury|d. Saturn|b
+What is the chemical symbol for iron?|a. I|b. Ir|c. Fe|d. F|c
+Who developed the theory of relativity?|a. Isaac Newton|b. Albert Einstein|c. Galileo Galilei|d. Stephen Hawking|b
+What is the capital of Spain?|a. Madrid|b. Barcelona|c. Seville|d. Valencia|a
+
+

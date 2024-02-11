@@ -1,0 +1,5 @@
+What is the capital of France?|a. London|b. Paris|c. Rome|d. Berlin|b
+Which planet is known as the Red Planet?|a. Jupiter|b. Mars|c. Venus|d. Mercury|b
+What is the powerhouse of the cell?|a. Nucleus|b. Mitochondria|c. Chloroplast|d. Ribosome|b
+Who is the author of 'To Kill a Mockingbird'?|a. Harper Lee|b. J.K. Rowling|c. George Orwell|d. Ernest Hemingway|a
+What is the chemical symbol for water?|a. Wo|b. H2O|c. H2O2|d. Wa|b
